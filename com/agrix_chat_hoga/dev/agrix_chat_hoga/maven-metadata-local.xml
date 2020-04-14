@@ -3,7 +3,7 @@
   <groupId>com.agrix_chat_hoga.dev</groupId>
   <artifactId>agrix_chat_hoga</artifactId>
   <versioning>
-    <release>1.0.26</release>
+    <release>1.0.27</release>
     <versions>
       <version>1.0.21</version>
       <version>1.0.22</version>
@@ -11,7 +11,8 @@
       <version>1.0.24</version>
       <version>1.0.25</version>
       <version>1.0.26</version>
+      <version>1.0.27</version>
     </versions>
-    <lastUpdated>20200414111220</lastUpdated>
+    <lastUpdated>20200414140007</lastUpdated>
   </versioning>
 </metadata>
